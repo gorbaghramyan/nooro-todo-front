@@ -10,7 +10,7 @@ Next.js 14 + TypeScript + Tailwind front-end for a Todo app.
 ## Setup
 1. Clone and start the API:
    ```bash
-   git clone https://github.com/gorbaghramyan/nooro-todo-api
+   git clone https://github.com/gorbaghramyan/nooro-todo-back
    cd nooro-todo-api
    npm install
    npm run dev
